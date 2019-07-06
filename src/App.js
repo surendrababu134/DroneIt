@@ -1,8 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import MapRouter from './components/MapRouter'
-
 
 function App() {
   return (
