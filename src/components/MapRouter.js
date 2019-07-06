@@ -68,5 +68,5 @@ export class MapRouter extends Component {
 }
 
 export default GoogleApiWrapper({
-    apiKey: 'AIzaSyDI_i2I0JuB1wABeEsm0nQqPx4VuGlG09k'
+    apiKey: ''
 })(MapRouter);
